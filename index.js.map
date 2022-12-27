@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAmB,aAAnB,QAAQ,IAAI","file":"index.js","sourceRoot":"../src","sourcesContent":["console.log(`test`);"]}
